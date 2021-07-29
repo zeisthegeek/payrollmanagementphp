@@ -1,0 +1,31 @@
+body { margin:0; padding:0;
+   background: url("../Assets/wall.jpg"); background-size:cover; 
+   background-position:center; }
+.formbox{  Width:400px; Height:600px;
+  Background:#000; opacity:0.8; Color:#fff;
+  Top:50%; Left:50%; Position: absolute;
+  Transform:translate(-50%,-50%); Box-sizing:border-box;
+  padding:35px 20px; border-radius:15px; font-weight:bold }
+.formbox input[type="text"]{
+ Border:none; Border-bottom:1px solid #fff;
+ Background:transparent; Outline:none;
+ Height: 40px; Color:#fff; Font-size:16px;}
+ .formbox input[type="number"]{
+ Border:none; Border-bottom:1px solid #fff;
+ Background:transparent; Outline:none;
+ Height: 40px; Color:#fff; Font-size:16px; }
+ .formbox input[type="submit"]{
+  Border:none; Outline:none; Height: 40px;
+  width: 90px; Background:#0878d3;
+  Color:#fff; Font-size:18px; Border-radius:20px; }
+ .formbox input[type="submit"]:hover{ 
+background:gold; color:white; }
+.formbox input[type="text"]:focus{
+ Border:none; Border-bottom:1px solid gold;
+ Background:transparent; Outline:none;
+ Height: 40px; Color:#fff; Font-size:16px; }
+.formbox input[type="number"]:focus{
+ Border:none; Border-bottom:1px solid gold;
+ Background:transparent; Outline:none;
+ Height: 40px; Color:#fff; Font-size:16px; }
+	

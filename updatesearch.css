@@ -1,0 +1,32 @@
+body{ margin:0; padding:0;
+         background: url("../Assets/wall.jpg");
+         background-size:cover; background-position:center; }
+h1{ background:black; color:white; border-radius:15px;
+ border-sizing:border-box; width:150px; opacity:0.7;
+ padding:10px 30px; position:relative; top:40px; }
+.formbox {Width:400px; Height:200px;
+      Background:#000; opacity:0.8; Color:#fff; 
+      Top:50%; Left:50%; Position: absolute;
+      Box-sizing:border-box; font-weight:bold;
+      Transform:translate(-50%,-50%);
+      padding:35px 20px; border-radius:15px; }
+.formbox input[type="text"]{
+     Border:none; Border-bottom:1px solid #fff;
+     Background:transparent; Outline:none;
+     Height: 40px; Color:#fff; Font-size:16px; }
+.formbox input[type="submit"]{
+     Border:none; Outline:none; Height: 40px;
+     width: 90px; Background:#0878d3;
+     Color:#fff; Font-size:18px; Border-radius:20px }
+.formbox input[type="submit"]:hover{
+ background:gold; color:white; }
+table{ background:white; opacity:0.8;
+         top:90%; left:50%; padding:10px;
+         position:absolute; border-radius:5px; 
+         transform:translate(-50%,-50%);
+         width:95%; }
+a{ text-decoration:none; background:black;
+   color:white; border-radius:5px; }
+a:hover{ text-decoration:none;
+   background:white; color:black;
+   border-radius:5px; }
