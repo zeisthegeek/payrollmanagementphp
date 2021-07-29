@@ -1,6 +1,6 @@
 <html>
 
-<link href="CSS/fik.css" rel='stylesheet' type="text/css">
+<link href="fik.css" rel='stylesheet' type="text/css">
  
 <body> 
 
