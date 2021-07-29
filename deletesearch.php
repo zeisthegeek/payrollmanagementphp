@@ -2,7 +2,7 @@
 error_reporting(0);
 ?>
 <html>
-<link href="CSS/updatesearch.css" rel='stylesheet' type="text/css">
+<link href="updatesearch.css" rel='stylesheet' type="text/css">
 <body LINK=RED ALINK=RED VLINK=RED><center>
 <form action="deletesearch.php" method="post">
 <h1>DELETE EMPLOYEE</h1>
