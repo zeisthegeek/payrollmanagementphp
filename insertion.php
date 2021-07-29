@@ -2,7 +2,7 @@
 <?php include("connection.php"); error_reporting(0); ?>
 <head>
     <title>Insert your Record</title></head>
-<link href="CSS/insertion.css" rel='stylesheet' type="text/css"> 
+<link href="insertion.css" rel='stylesheet' type="text/css"> 
 <body>
 <div class="formbox">
 <form action="" method="post" autocomplete="off"><center>    
