@@ -1,7 +1,7 @@
 <?php 
 include("connection.php"); error_reporting(0);
 ?>
-<link href="CSS/Displaying.css" rel='stylesheet' type="text/css"> 
+<link href="Displaying.css" rel='stylesheet' type="text/css"> 
 <html>
 <body>
 <div class="ample">
