@@ -1,4 +1,4 @@
-<link href="CSS/directsearch.css" rel='stylesheet' type="text/css"> 
+<link href="directsearch.css" rel='stylesheet' type="text/css"> 
 <?php
 
 error_reporting(0);
