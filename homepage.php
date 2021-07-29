@@ -14,7 +14,7 @@ include('connection.php');
 error_reporting(0);
 ?>
 <html>
-<link href="CSS/homepage.css" rel='stylesheet' type="text/css"> 
+<link href="homepage.css" rel='stylesheet' type="text/css"> 
 <body>
 <center><h1>PAYROLL MANAGEMENT SYSTEM</h1>
 <br><br><br><br>
